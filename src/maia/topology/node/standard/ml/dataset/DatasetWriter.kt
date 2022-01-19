@@ -1,10 +1,10 @@
-package māia.topology.node.standard.ml.dataset
+package maia.topology.node.standard.ml.dataset
 
-import māia.configure.Configurable
-import māia.ml.dataset.DataRow
-import māia.ml.dataset.DataStream
-import māia.topology.NodeConfiguration
-import māia.topology.node.base.Sink
+import maia.configure.Configurable
+import maia.ml.dataset.DataRow
+import maia.ml.dataset.DataStream
+import maia.topology.NodeConfiguration
+import maia.topology.node.base.Sink
 
 /**
  * TODO: What class does.

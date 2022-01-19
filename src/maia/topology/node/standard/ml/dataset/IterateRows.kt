@@ -1,12 +1,12 @@
-package māia.topology.node.standard.ml.dataset
+package maia.topology.node.standard.ml.dataset
 
-import māia.configure.Configurable
-import māia.configure.asReconfigureBlock
-import māia.ml.dataset.DataRow
-import māia.ml.dataset.DataStream
-import māia.topology.Node
-import māia.topology.NodeConfiguration
-import māia.topology.node.base.Transformer
+import maia.configure.Configurable
+import maia.configure.asReconfigureBlock
+import maia.ml.dataset.DataRow
+import maia.ml.dataset.DataStream
+import maia.topology.Node
+import maia.topology.NodeConfiguration
+import maia.topology.node.base.Transformer
 
 /**
  * Forwards each row from a data-stream.

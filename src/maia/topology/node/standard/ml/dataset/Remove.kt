@@ -1,12 +1,12 @@
-package māia.topology.node.standard.ml.dataset
+package maia.topology.node.standard.ml.dataset
 
-import māia.configure.Configurable
-import māia.configure.ConfigurationItem
-import māia.ml.dataset.DataStream
-import māia.ml.dataset.view.DataStreamView
-import māia.topology.NodeConfiguration
-import māia.topology.node.base.LockStepTransformer
-import māia.util.filter
+import maia.configure.Configurable
+import maia.configure.ConfigurationItem
+import maia.ml.dataset.DataStream
+import maia.ml.dataset.view.DataStreamView
+import maia.topology.NodeConfiguration
+import maia.topology.node.base.LockStepTransformer
+import maia.util.filter
 
 /**
  * TODO: What class does.

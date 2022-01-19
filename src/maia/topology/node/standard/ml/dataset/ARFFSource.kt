@@ -1,16 +1,16 @@
-package māia.topology.node.standard.ml.dataset
+package maia.topology.node.standard.ml.dataset
 
-import māia.configure.Configurable
-import māia.configure.ConfigurationElement
-import māia.configure.ConfigurationItem
-import māia.configure.asReconfigureBlock
-import māia.ml.dataset.DataBatch
-import māia.ml.dataset.DataStream
-import māia.ml.dataset.arff.load
-import māia.ml.dataset.view.DataBatchView
-import māia.topology.Node
-import māia.topology.NodeConfiguration
-import māia.topology.node.base.Source
+import maia.configure.Configurable
+import maia.configure.ConfigurationElement
+import maia.configure.ConfigurationItem
+import maia.configure.asReconfigureBlock
+import maia.ml.dataset.DataBatch
+import maia.ml.dataset.DataStream
+import maia.ml.dataset.arff.load
+import maia.ml.dataset.view.DataBatchView
+import maia.topology.Node
+import maia.topology.NodeConfiguration
+import maia.topology.node.base.Source
 
 /**
  * TODO: What class does.

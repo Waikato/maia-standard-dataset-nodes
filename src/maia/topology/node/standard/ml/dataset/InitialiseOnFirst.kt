@@ -1,16 +1,16 @@
-package māia.topology.node.standard.ml.dataset
+package maia.topology.node.standard.ml.dataset
 
-import māia.configure.Configurable
-import māia.configure.asReconfigureBlock
-import māia.ml.dataset.WithColumns
-import māia.ml.dataset.headers.DataColumnHeadersView
-import māia.ml.dataset.view.readOnlyView
-import māia.topology.ExecutionState
-import māia.topology.Node
-import māia.topology.NodeConfiguration
-import māia.topology.io.Output
-import māia.topology.io.Throughput
-import māia.topology.node.base.LockStepTransformer
+import maia.configure.Configurable
+import maia.configure.asReconfigureBlock
+import maia.ml.dataset.WithColumns
+import maia.ml.dataset.headers.DataColumnHeadersView
+import maia.ml.dataset.view.readOnlyView
+import maia.topology.ExecutionState
+import maia.topology.Node
+import maia.topology.NodeConfiguration
+import maia.topology.io.Output
+import maia.topology.io.Throughput
+import maia.topology.node.base.LockStepTransformer
 
 /**
  * Utility node which initialises a learner on the first data-dataset

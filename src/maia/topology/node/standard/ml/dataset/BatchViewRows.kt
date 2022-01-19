@@ -1,13 +1,13 @@
-package māia.topology.node.standard.ml.dataset
+package maia.topology.node.standard.ml.dataset
 
-import māia.configure.Configurable
-import māia.configure.asReconfigureBlock
-import māia.ml.dataset.DataRow
-import māia.ml.dataset.view.DataRowBatchView
-import māia.ml.dataset.view.viewAsDataBatch
-import māia.topology.Node
-import māia.topology.NodeConfiguration
-import māia.topology.node.base.LockStepTransformer
+import maia.configure.Configurable
+import maia.configure.asReconfigureBlock
+import maia.ml.dataset.DataRow
+import maia.ml.dataset.view.DataRowBatchView
+import maia.ml.dataset.view.viewAsDataBatch
+import maia.topology.Node
+import maia.topology.NodeConfiguration
+import maia.topology.node.base.LockStepTransformer
 
 /**
  * Forwards each row from a data-stream.
